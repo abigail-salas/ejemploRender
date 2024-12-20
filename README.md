@@ -1,9 +1,13 @@
+## 🗂 Estructura del Proyecto
 
+```plaintext
 ejemplo_DespliegueProyecto/
 ├── frontEnd/
 │   ├── src/
 │   │   ├── assets/
 │   │   │   ├── react.svg
+│   │   ├── context/
+│   │   │   ├── TripsContext.jsx
 │   │   ├── components/
 │   │   │   ├── Form.jsx
 │   │   │   ├── Footer.jsx
@@ -38,3 +42,4 @@ ejemplo_DespliegueProyecto/
 │   │   ├── viajesRoutes.js
 │   ├── .env
 │   ├── package.json
+```
